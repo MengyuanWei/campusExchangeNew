@@ -1,0 +1,7 @@
+ALTER TABLE furnitures
+    ALTER COLUMN id SET NOT NULL;
+
+ALTER TABLE textbooks
+    ALTER COLUMN id SET NOT NULL;
+
+
